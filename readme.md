@@ -1,4 +1,3 @@
-
 ---
 title: "Schrittmotor"
 date: "2018-10-02T07:00:52.000Z"
