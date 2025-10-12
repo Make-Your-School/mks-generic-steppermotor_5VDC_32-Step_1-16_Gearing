@@ -3,7 +3,7 @@ title: "Schrittmotor"
 date: "2018-10-02T07:00:52.000Z"
 tags: 
   - "output"
-coverImage: "40_schrittmotor.jpg"
+coverImage: "40_schrittmotor.png"
 material_number: "40"
 material_type: "output"
 material_short_descr: "Small reduction stepper Motor"
