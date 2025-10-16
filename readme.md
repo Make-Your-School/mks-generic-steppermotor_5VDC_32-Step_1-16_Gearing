@@ -32,8 +32,6 @@ Ein Schrittmotor kommt durch seine genaue und einfache Positionierbarkeit oftmal
 Alle weiteren Hintergrundinformationen, sowie ein Beispielaufbau und alle notwendigen Programmbibliotheken findet man über alle gängigen Suchmaschinen durch die Eingabe der genauen Komponentenbezeichnungen.
 
 <!-- infolist -->
-
-<!-- infolists -->
  
 
 https://www.youtube.com/watch?v=wVxcmO2YuxA
