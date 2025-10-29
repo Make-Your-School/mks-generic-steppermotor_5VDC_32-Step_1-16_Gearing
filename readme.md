@@ -15,9 +15,6 @@ repo_part: "steppermotor_5VDC_32-Step_1-16_Gearing"
 product_url: "https://www.adafruit.com/product/858"
 clone_url: "https://github.com/Make-Your-School/mks-generic-steppermotor_5VDC_32-Step_1-16_Gearing.git"
 embedded_example_file: "examples/steppermotor_5VDC_32-Step_1-16_Gearing_minimal/steppermotor_5VDC_32-Step_1-16_Gearing_minimal.ino"
-title: 'Schrittmotor'
-status: 'active'
-difficulty: 'advanced'
 ---
 
 
